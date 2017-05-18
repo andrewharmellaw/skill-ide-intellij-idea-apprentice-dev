@@ -2,7 +2,7 @@
 
 ## [PRE-REQUISITES]
   * [Java 8 Programmer (Apprentice Developer)](https://github.com/andrewharmellaw/skill-java8-apprentice-dev)
-	* [Build Tool - Maven2 (Apprentice Developer)](https://github.com/andrewharmellaw/skill-build-tool-maven2-apprentice-dev)
+  * [Build Tool - Maven2 (Apprentice Developer)](https://github.com/andrewharmellaw/skill-build-tool-maven2-apprentice-dev)
   * [Testing (Unit) - JUnit5 (Apprentice Developer)](https://github.com/andrewharmellaw/skill-testing-junit5-apprentice-dev)
 
 ## [TOPICS]
