@@ -23,7 +23,7 @@
 
 ## [EXPERIENCE SUGGESTIONS]
   * Learn the keyboard shortcuts one a day
-	* Read the tip of the day, and try and to use it
+  * Read the tip of the day, and try and to use it
 
 ## [ADVENTURER NOTES]
   * Follow Tricia Gee on Twitter
