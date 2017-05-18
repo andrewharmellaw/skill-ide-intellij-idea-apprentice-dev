@@ -8,9 +8,10 @@
 ## [TOPICS]
   * Configuration (Build Tool, JDK, Spring, look and feel, code style)
   * Creating new projects
-  * Compiling and Running
-  * Running JUnit Tests
-  * SCM Integration (SUPPLEMENTARY)
+  * Opening / importing existing projects
+  * Compiling and running from build files
+  * Running JUnit tests
+  * Git integration (SUPPLEMENTARY)
   * Shortcuts (SUPPLEMENTARY)
 
 ## [RESOURCES]
